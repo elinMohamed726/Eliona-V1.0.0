@@ -2,7 +2,7 @@
 {
   "prefix": ".",
   "botNickname": "Eliona 🐸",
-  "admins": ["1100090179362612", "61553986426290"],
+  "admins": ["100090179362612"],
   "autoRestartWhenListenMqttError": true,
   "language": "ar",
   "logLevel": "info",
