@@ -1,0 +1,17 @@
+
+{
+  "prefix": ".",
+  "botNickname": "Eliona 🐸",
+  "admins": ["1100090179362612", "61553986426290"],
+  "autoRestartWhenListenMqttError": true,
+  "language": "ar",
+  "logLevel": "info",
+  "listenEvents": true,
+  "usePrefixInGroup": true,
+  "botName": "Eliona",
+  "version": "1.0.0",
+  "developer": "Elin Mohamed",
+  "defaultCooldown": 3,
+  "commandNotFoundMessage": "الامر دا مش موجود🥲.",
+  "mentionPrefix": true
+}
